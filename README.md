@@ -1,2 +1,0 @@
-# SkillfactoryQAPython
-for cources
